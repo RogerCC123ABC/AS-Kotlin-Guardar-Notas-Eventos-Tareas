@@ -1,0 +1,1 @@
+Aplicación hecho con el lenguaje de programación Kotlín y con el editor de código Android Studio. Consiste en escoger entre tres tipos de agendas: nota, evento o tarea. En cada una puede agregar o eliminar el tipo de agenda qe se desee.
